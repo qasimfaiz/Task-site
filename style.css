@@ -1,0 +1,73 @@
+.project {
+    margin-bottom: 30px;
+}
+.project img {
+    width: 100%;
+    height: auto;
+}
+.project-title {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.project-description {
+    color: gray;
+}
+.testimonial-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.testimonial {
+    text-align: left;
+    margin-bottom: 30px;
+    flex: 0 0 32%;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.testimonial p {
+    margin-top: 15px;
+}
+.testimonial img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-right: 15px;
+}
+.testimonial .name {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.testimonial .position {
+    color: gray;
+    font-size: 14px;
+}
+.testimonial .stars {
+    
+    margin-top: 40px;
+    color: #ffcc00;
+    font-size: 14px;
+}
+h2 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+.stars{
+    margin-left: 65px;
+    padding-bottom: -12px;
+}
+.social-icons a {
+    margin-right: 10px;
+}
+.form-control {
+    margin-bottom: 15px;
+}
+.btn-dark {
+    width: 100%;
+}
